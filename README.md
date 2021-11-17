@@ -11,7 +11,12 @@ npm start
 ~~~
 
 ## Link to the deployed app
+[workout tracker](https://workout-tracker-zl-2021.herokuapp.com/)
 
+## Screenshot of the app
+![alt text](./public/img/screenshot1.png)
+![alt text](./public/img/screenshot2.png)
+![alt text](./public/img/screenshot3.png)
 
 ## Installation
 Run this command to install the packages:
